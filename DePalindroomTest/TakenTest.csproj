@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\DePalindroom\Palindroom.csproj" />
+    <ProjectReference Include="..\DePalindroom\Taken.csproj" />
   </ItemGroup>
 
 </Project>

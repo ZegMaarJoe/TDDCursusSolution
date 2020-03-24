@@ -1,5 +1,6 @@
 ﻿using System.Linq;
-namespace Palindroom
+
+namespace Taken
 {
     public class Woord
     {

@@ -7,9 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TDDCursusLibrary", "TDDCurs
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TDDCursusLibraryTest", "TDDCursusLibraryTest\TDDCursusLibraryTest.csproj", "{C6EEA8D8-CCA3-4E95-AB48-77AF2E3B6B0B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindroomTest", "DePalindroomTest\PalindroomTest.csproj", "{49B404B6-9CB4-4187-8009-2E1536CAB871}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TakenTest", "DePalindroomTest\TakenTest.csproj", "{49B404B6-9CB4-4187-8009-2E1536CAB871}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindroom", "DePalindroom\Palindroom.csproj", "{19501492-0002-4F52-A733-29FB22ECE54C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Taken", "DePalindroom\Taken.csproj", "{19501492-0002-4F52-A733-29FB22ECE54C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

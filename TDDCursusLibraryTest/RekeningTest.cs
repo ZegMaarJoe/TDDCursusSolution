@@ -7,6 +7,12 @@ namespace TDDCursusLibraryTest
     [TestClass]
     public class RekeningTest
     {
+        private Rekening rekening;
+        [TestInitialize]
+        public void Initialize()
+        {
+            rekening = new Rekening();
+        }
         [TestMethod]
         public void HetSaldoVanEenNieuweRekeningIsNul()
         {
