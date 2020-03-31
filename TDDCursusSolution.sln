@@ -11,9 +11,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TakenTest", "DePalindroomTe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Taken", "DePalindroom\Taken.csproj", "{19501492-0002-4F52-A733-29FB22ECE54C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISBNLibrary", "ISBNLibrary\ISBNLibrary.csproj", "{5EBFBC25-3CD7-4901-9295-2E703D503994}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ISBNLibrary", "ISBNLibrary\ISBNLibrary.csproj", "{5EBFBC25-3CD7-4901-9295-2E703D503994}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISBNLibraryTest", "ISBNLibraryTest\ISBNLibraryTest.csproj", "{39343C9F-7A5C-49CE-B190-65B894B3D6E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ISBNLibraryTest", "ISBNLibraryTest\ISBNLibraryTest.csproj", "{39343C9F-7A5C-49CE-B190-65B894B3D6E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamenLibrary", "TestLibrary\ExamenLibrary.csproj", "{0E1FCD87-A590-42DD-8414-E2ABFA0A102B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamenLibraryTest", "ExamenLibraryTest\ExamenLibraryTest.csproj", "{99E461F0-9BDD-47B6-833B-1DA50D3624F8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{39343C9F-7A5C-49CE-B190-65B894B3D6E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39343C9F-7A5C-49CE-B190-65B894B3D6E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39343C9F-7A5C-49CE-B190-65B894B3D6E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E1FCD87-A590-42DD-8414-E2ABFA0A102B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E1FCD87-A590-42DD-8414-E2ABFA0A102B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E1FCD87-A590-42DD-8414-E2ABFA0A102B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E1FCD87-A590-42DD-8414-E2ABFA0A102B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99E461F0-9BDD-47B6-833B-1DA50D3624F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99E461F0-9BDD-47B6-833B-1DA50D3624F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99E461F0-9BDD-47B6-833B-1DA50D3624F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99E461F0-9BDD-47B6-833B-1DA50D3624F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
